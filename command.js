@@ -1,5 +1,5 @@
 //Lara-MD Whatsapp User Bot
-//Created BY Nithya
+//Created BY Sadeesha
 
 var commands = [];
 
